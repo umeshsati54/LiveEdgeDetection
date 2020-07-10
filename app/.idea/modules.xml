@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1787407662/LiveEdgeDetection.iml" filepath="$PROJECT_DIR$/.idea/modules/-1787407662/LiveEdgeDetection.iml" group="LiveEdgeDetection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="LiveEdgeDetection/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-856738305/liveedgedetection.iml" filepath="$PROJECT_DIR$/.idea/modules/-856738305/liveedgedetection.iml" group="LiveEdgeDetection/liveedgedetection" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1049014510/openCVLibrary340.iml" filepath="$PROJECT_DIR$/.idea/modules/1049014510/openCVLibrary340.iml" group="LiveEdgeDetection/openCVLibrary340" />
+    </modules>
+  </component>
+</project>
